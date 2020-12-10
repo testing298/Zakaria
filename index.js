@@ -1,19 +1,19 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY ARIS187 ID
+* SCRIPT BY ZAKARIA AHMAD
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* ZAKARIA AHMAD
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾SAZABOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://www.instagram.com/zakaria_tll/ // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6281239983191'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
+ // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'SAZA GMG'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
-}
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/zakaria_tll/ ,MessageType.text);
+
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/zakaria_tll/ ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/zakaria_tll/ ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/zakaria_tll/ ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/zakaria_tll/ ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_sadboy.ig_' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾SAZA BOT👾* , Follow Instagram Mimin Yah😻 :https://www.instagram.com/zakaria_tll/ ' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
@@ -1270,7 +1270,7 @@ if (text.includes("!alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah ubah ZAKARIA AHMAD
 
 
 })
